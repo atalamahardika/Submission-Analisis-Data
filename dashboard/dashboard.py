@@ -42,7 +42,7 @@ def create_sum_weekly_user(df):
     return weekly_sum_user
 
 # Memuat data
-main_data_df = pd.read_csv('main_data.csv')
+main_data_df = pd.read_csv('./dashboard/main_data.csv')
 datetime_columns = ['date']
 main_data_df.sort_values(by=datetime_columns, inplace=True)
 main_data_df.reset_index(inplace=True)
