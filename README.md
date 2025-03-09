@@ -21,7 +21,4 @@ cd dashboard
 ```
 streamlit run dashboard.py
 ```  
-5. Or you can visit this website  
-```
-[Bike Sharing Dashboard Analysis](https://bike-sharing-athallah24.streamlit.app/)
-```
+5. Or you can visit this website [Bike Sharing Dashboard Analysis](https://bike-sharing-athallah24.streamlit.app/)
