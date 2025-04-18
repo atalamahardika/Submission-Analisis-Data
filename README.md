@@ -10,7 +10,7 @@ https://github.com/atalamahardika/Submission-Analisis-Data.git
 ```
 conda create --name bike-share python=3.9
 conda activate base
-conda activate main-ds
+conda activate bike-share
 pip install -r requirements.txt
 ```  
 3. Go to dashboard directory  
